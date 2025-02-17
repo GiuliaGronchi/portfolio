@@ -1,4 +1,4 @@
-# Data scientist
+
 Analytical-minded MSc in Statistical Physics and PhD in Ocean Physics, with foundation in data analytics, data visualization, Earth numerical models. Skilled in communicating data-driven research. Proficient in Python, SQL, PowerBI. 
 
 ### Education

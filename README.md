@@ -2,7 +2,7 @@
 Analytical-minded MSc in Statistical Physics and PhD in Ocean Physics, with a strong foundation in  data analytics, data visualization, Earth predictive numerical models. Skilled in communicating data-driven research. Proficient in Python, SQL, PowerBI, Excel. 
 
 ### Education
-- Ph.D., Ocean Physics and Dynamics | University of Bologna (_July 2024_)
+- Ph.D., Ocean Physics | University of Bologna (_July 2024_)
 - M.S., Physics | Sapienza University of Rome (_May 2020_)
 - B.S., Physics | Sapienza University of Rome (_March 2017_)
 

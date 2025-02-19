@@ -48,7 +48,7 @@ patterns in time and space of gender gaps in diplomacy.
 ### LST for suspended particles
 [Laser Transmission Spectroscopy](https://ieeexplore.ieee.org/document/9359477)
 
-Laser Transmission Spectroscopy (LTS) is a cutting-edge technique for characterization of biological nanoparticles. It is often used to measure dimensions and absolute concentration of exosomes, bacteria, and cells in vivo suspensions and is a promising new method for diagnostics. During [this project](https://github.com/GiuliaGronchi/LTS) at Sapienza University, we designed a new experimental setup with a tunable wavelength laser and developed a **Python** software tool for analyzing the transmitted data.
+Laser Transmission Spectroscopy (LTS) is a cutting-edge technique for characterization of **biological nanoparticles**. It is often used to measure dimensions and absolute concentration of exosomes, bacteria, and cells in vivo suspensions and is a promising new method for diagnostics. During [this project](https://github.com/GiuliaGronchi/LTS) at Sapienza University, we designed a new experimental setup with a tunable wavelength laser and developed a **Python** software tool for analyzing the transmitted data.
 
 <p align="center">
   <img src="/assets/img/laser.png" alt="Images">

@@ -22,9 +22,9 @@ Analytical-minded MSc in Statistical Physics and PhD in Ocean Physics, with foun
 ### Ocean pollution tracking
 [Publication](https://meetingorganizer.copernicus.org/EGU24/EGU24-9808.html)
 
-Description... Used **OceanParcels**
+Developed a two-stage model for tracking deep oil spills in the ocean, as from accidental pipelines ruptures and sinking tanks, using **Python**. Key physical processes, such as oil-water entrainment and reaching of a deep neutral buoyancy level, are fully represented with a near-field plume model. This is coupled to a far-field single-parcels model, where advection-diffusion and size-dependent buoyancy are modeled using **OceanParcels**. Key model parameters are tuned for optimal fit with data from historical oil spill cases.
 
-![Images](/assets/img/ocean.png)
+![Images](/assets/img/nearfar.png)
 
 
 

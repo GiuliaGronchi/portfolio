@@ -30,7 +30,7 @@ Developed a two-stage model for **tracking deep oil spills** in the ocean, as fr
 ### Active Bacteria 
 [Publication](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.052134)
 
-Developed a new model for a **microscale thermal machine** based upon active particle statistical physics. The model is a complex stochastic process with colored noise that reproduces the persistence of motion of self-propelled particles, such as microswimmer (bacteria etc.) or other active particles. To extract work in a model of this kind we proposed to modulate in time the parameters of the bath, as it happens in a kind of Stirling engine (a variation of the famous Carnot one). Analytical insights were simulated in **C**.
+Developed a new model for a **microscale thermal machine** based upon active particle statistical physics. The model is a complex stochastic process with colored noise that reproduces the persistence of motion of self-propelled particles, such as microswimmer (bacteria etc.) or other active particles. To extract work in a model of this kind we proposed to modulate in time the parameters of the bath, as it happens in a kind of Stirling engine. Physical processes were simulated in **C**.
 <p align="center">
   <img src="/assets/img/thermal_engine.png" alt="Images">
 </p>
@@ -46,8 +46,9 @@ patterns in time and space of gender gaps in diplomacy.
 </p>
 
 ### LST for suspended particles
+[Laser Transmission Spectroscopy](https://ieeexplore.ieee.org/document/9359477)
 
-Laser Transmission Spectroscopy (LTS) is a cutting-edge technique used to measure the dimensions and absolute concentration of suspended nanoscale particles. It is often used for suspensions of exosomes, bacteria, and cells in vivo and is a promising new method for diagnostics. During this project, we designed a new experimental setup with a tunable wavelength laser and developed a Python software package for analyzing the transmitted data.
+Laser Transmission Spectroscopy (LTS) is a cutting-edge technique for characterization of biological nanoparticles. It is often used to measure dimensions and absolute concentration of exosomes, bacteria, and cells in vivo suspensions and is a promising new method for diagnostics. During [this project](https://github.com/GiuliaGronchi/LTS) at Sapienza University, we designed a new experimental setup with a tunable wavelength laser and developed a **Python** software tool for analyzing the transmitted data.
 
 <p align="center">
   <img src="/assets/img/laser.png" alt="Images">

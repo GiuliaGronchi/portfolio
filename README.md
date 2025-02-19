@@ -1,5 +1,5 @@
 # Physicist --> Data Scientist
-Analytical-minded MSc in Statistical Physics and PhD in Ocean Physics, with foundation in data analytics, data visualization, Earth numerical models. Skilled in communicating data-driven research. Proficient in Python, SQL, PowerBI. 
+Results-oriented scientist with a PhD in Ocean Physics and an MSc in Theoretical Physics. Leveraging expertise in Earth physical models and environmental data analysis to solve complex challenges. Skilled in data visualization and communication, with proficiency in Python, SQL, and PowerBI.
 
 ### Education
 - Ph.D., Ocean Physics | University of Bologna (_July 2024_)
@@ -24,16 +24,30 @@ Analytical-minded MSc in Statistical Physics and PhD in Ocean Physics, with foun
 
 Developed a two-stage model for **tracking deep oil spills** in the ocean, as from accidental pipelines ruptures and sinking tanks, using **Python**. Key physical processes, such as oil-water entrainment and reaching of a deep neutral buoyancy level, are fully represented with a [near-field](https://github.com/GiuliaGronchi/NearParcels) model. This is coupled to a [far-field](https://github.com/GiuliaGronchi/FarParcels) single-parcels model, where advection-diffusion and size-dependent buoyancy are modeled using **OceanParcels**. Key model parameters are tuned for optimal fit with data from historical oil spill cases.
 
-![Images](/assets/img/deep.png)
-
-
+<p align="center">
+  <img src="/assets/img/deep.png" alt="Images">
+</p>
 
 ### Active Bacteria 
 [Publication](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.052134)
 
 Developed a new model for a **microscale thermal machine** based upon active particle statistical physics. The model is a complex stochastic process with colored noise that reproduces the persistence of motion of self-propelled particles, such as microswimmer (bacteria etc.) or other active particles. To extract work in a model of this kind we proposed to modulate in time the parameters of the bath, as it happens in a kind of Stirling engine (a variation of the famous Carnot one). Analytical insights were simulated in **C**.
 
-![Images](/assets/img/thermal_machine.png)
+<p align="center">
+  <img src="/assets/img/thermal_machine.png" alt="Images">
+</p>
+
+### GenDip dataset 
+
+Used **SQL** querying to get insights from the GenDip Dataset on Gender and Diplomatic Representation from University of Gothenburg.
+The GenDip dataset maps the man and woman presence in different kinds of ambassador postings between the years 1968-2021. This [analysis](https://github.com/GiuliaGronchi/GenDip) identifies
+patterns in time and space of gender gaps in diplomacy.
+
+[GenDip dataset](https://www.gu.se/en/gendip/the-gendip-dataset-on-gender-and-diplomatic-representation)
+
+<p align="center">
+  <img src="/assets/img/gender_gap.png" alt="Images">
+</p>
 
 ### Publications
 1. G. Gronchi, N. Pinardi, G. Coppini, and G. Mannarini , A subsurface oil spill study: integral plume model and lagrangian oil droplets, EGU24 – Session OS4.7: Monitoring, Modeling and Risk Mapping of Marine Pollution and its Environmental and Socioeconomic Footprints, DOI: 10.5194/egusphere-egu24-9808, 2024.

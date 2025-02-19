@@ -1,4 +1,4 @@
-
+# Physicist --> Data Scientist
 Analytical-minded MSc in Statistical Physics and PhD in Ocean Physics, with foundation in data analytics, data visualization, Earth numerical models. Skilled in communicating data-driven research. Proficient in Python, SQL, PowerBI. 
 
 ### Education
@@ -18,7 +18,7 @@ Analytical-minded MSc in Statistical Physics and PhD in Ocean Physics, with foun
 - Engineered Python-based data pipelines for ocean pollution analysis, automating data extraction, aggregation, preprocessing, and model output processing. 
 - Effectively communicated complex technical findings to diverse audiences, from academic experts to external stakeholders.
 
-### Projects
+## Projects
 ### Ocean pollution tracking
 [Publication](https://meetingorganizer.copernicus.org/EGU24/EGU24-9808.html)
 

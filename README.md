@@ -46,11 +46,9 @@ patterns in time and space of gender gaps in diplomacy.
 </p>
 
 ### LST for suspended particles
-[GenDip dataset](https://www.gu.se/en/gendip/the-gendip-dataset-on-gender-and-diplomatic-representation)
 
-Used **SQL** querying to get insights from the GenDip Dataset on Gender and Diplomatic Representation from University of Gothenburg.
-The GenDip dataset maps the man and woman presence in different kinds of ambassador postings between the years 1968-2021. This [SQL analysis](https://github.com/GiuliaGronchi/GenDip) identifies
-patterns in time and space of gender gaps in diplomacy.
+Laser Transmission Spectroscopy (LTS) is a cutting-edge technique used to measure the dimensions and absolute concentration of suspended nanoscale particles. It is often used for suspensions of exosomes, bacteria, and cells in vivo and is a promising new method for diagnostics. During this project, we designed a new experimental setup with a tunable wavelength laser and developed a Python software package for analyzing the transmitted data.
+
 <p align="center">
   <img src="/assets/img/laser.png" alt="Images">
 </p>

@@ -21,6 +21,7 @@ Results-oriented scientist with a PhD in Ocean Physics and an MSc in Theoretical
 ## Projects
 ### Ocean pollution tracking
 [Publication](https://meetingorganizer.copernicus.org/EGU24/EGU24-9808.html)
+
 Developed a two-stage model for **tracking deep oil spills** in the ocean, as from accidental pipelines ruptures and sinking tanks, using **Python**. Key physical processes, such as oil-water entrainment and reaching of a deep neutral buoyancy level, are fully represented with a [near-field](https://github.com/GiuliaGronchi/NearParcels) model. This is coupled to a [far-field](https://github.com/GiuliaGronchi/FarParcels) single-parcels model, where advection-diffusion and size-dependent buoyancy are modeled using **OceanParcels**. Key model parameters are tuned for optimal fit with data from historical oil spill cases.
 <p align="center">
   <img src="/assets/img/deep.png" alt="Images">
@@ -28,6 +29,7 @@ Developed a two-stage model for **tracking deep oil spills** in the ocean, as fr
 
 ### Active Bacteria 
 [Publication](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.052134)
+
 Developed a new model for a **microscale thermal machine** based upon active particle statistical physics. The model is a complex stochastic process with colored noise that reproduces the persistence of motion of self-propelled particles, such as microswimmer (bacteria etc.) or other active particles. To extract work in a model of this kind we proposed to modulate in time the parameters of the bath, as it happens in a kind of Stirling engine (a variation of the famous Carnot one). Analytical insights were simulated in **C**.
 <p align="center">
   <img src="/assets/img/thermal_machine.png" alt="Images">
@@ -35,8 +37,9 @@ Developed a new model for a **microscale thermal machine** based upon active par
 
 ### GenDip dataset 
 [GenDip dataset](https://www.gu.se/en/gendip/the-gendip-dataset-on-gender-and-diplomatic-representation)
+
 Used **SQL** querying to get insights from the GenDip Dataset on Gender and Diplomatic Representation from University of Gothenburg.
-The GenDip dataset maps the man and woman presence in different kinds of ambassador postings between the years 1968-2021. This [analysis](https://github.com/GiuliaGronchi/GenDip) identifies
+The GenDip dataset maps the man and woman presence in different kinds of ambassador postings between the years 1968-2021. This [SQL analysis](https://github.com/GiuliaGronchi/GenDip) identifies
 patterns in time and space of gender gaps in diplomacy.
 <p align="center">
   <img src="/assets/img/gender_gap.png" alt="Images">

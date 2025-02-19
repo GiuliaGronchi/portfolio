@@ -38,7 +38,7 @@ Developed a new model for a **microscale thermal machine** based upon active par
 [GenDip dataset](https://www.gu.se/en/gendip/the-gendip-dataset-on-gender-and-diplomatic-representation)
 
 Used **SQL** querying to get insights from the GenDip Dataset on Gender and Diplomatic Representation from University of Gothenburg.
-The GenDip dataset maps the man and woman presence in different kinds of ambassador postings between the years 1968-2021. This [SQL analysis](https://github.com/GiuliaGronchi/GenDip) identifies
+The GenDip dataset maps the man and woman presence in different kinds of ambassador postings between the years 1968-2021. This [SQL analysis](https://github.com/GiuliaGronchi/SQL-GenDip) identifies
 patterns in time and space of gender gaps in diplomacy.
 
 ![Images](/assets/img/gender_gap.png)

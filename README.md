@@ -22,18 +22,18 @@ Analytical-minded MSc in Statistical Physics and PhD in Ocean Physics, with foun
 ### Ocean pollution tracking
 [Publication](https://meetingorganizer.copernicus.org/EGU24/EGU24-9808.html)
 
-Developed a two-stage model for tracking deep oil spills in the ocean, as from accidental pipelines ruptures and sinking tanks, using **Python**. Key physical processes, such as oil-water entrainment and reaching of a deep neutral buoyancy level, are fully represented with a near-field plume model. This is coupled to a far-field single-parcels model, where advection-diffusion and size-dependent buoyancy are modeled using **OceanParcels**. Key model parameters are tuned for optimal fit with data from historical oil spill cases.
+Developed a two-stage model for **tracking deep oil spills** in the ocean, as from accidental pipelines ruptures and sinking tanks, using **Python**. Key physical processes, such as oil-water entrainment and reaching of a deep neutral buoyancy level, are fully represented with a near-field plume model. This is coupled to a far-field single-parcels model, where advection-diffusion and size-dependent buoyancy are modeled using **OceanParcels**. Key model parameters are tuned for optimal fit with data from historical oil spill cases.
 
-![Images](/assets/img/nearfar.png)
+![Images](/assets/img/deep.png)
 
 
 
 ### Active Bacteria 
 [Publication](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.052134)
 
-Description... 
+Developed a new model for a **microscale thermal machine** based upon active particle statistical physics. The model is a complex stochastic process with colored noise that reproduces the persistence of motion of self-propelled particles, such as microswimmer (bacteria etc.) or other active particles. To extract work in a model of this kind we proposed to modulate in time the parameters of the bath, as it happens in a kind of Stirling engine (a variation of the famous Carnot one). Analytical insights were simulated in **C**.
 
-![Images](/assets/img/ocean.png)
+![Images](/assets/img/thermal_machine.png)
 
 ### Publications
 1. G. Gronchi, N. Pinardi, G. Coppini, and G. Mannarini , A subsurface oil spill study: integral plume model and lagrangian oil droplets, EGU24 – Session OS4.7: Monitoring, Modeling and Risk Mapping of Marine Pollution and its Environmental and Socioeconomic Footprints, DOI: 10.5194/egusphere-egu24-9808, 2024.

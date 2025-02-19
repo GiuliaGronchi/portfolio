@@ -45,6 +45,16 @@ patterns in time and space of gender gaps in diplomacy.
   <img src="/assets/img/gender_gap.png" alt="Images">
 </p>
 
+### LST for suspended particles
+[GenDip dataset](https://www.gu.se/en/gendip/the-gendip-dataset-on-gender-and-diplomatic-representation)
+
+Used **SQL** querying to get insights from the GenDip Dataset on Gender and Diplomatic Representation from University of Gothenburg.
+The GenDip dataset maps the man and woman presence in different kinds of ambassador postings between the years 1968-2021. This [SQL analysis](https://github.com/GiuliaGronchi/GenDip) identifies
+patterns in time and space of gender gaps in diplomacy.
+<p align="center">
+  <img src="/assets/img/laser.png" alt="Images">
+</p>
+
 ### Publications
 1. G. Gronchi, N. Pinardi, G. Coppini, and G. Mannarini , A subsurface oil spill study: integral plume model and lagrangian oil droplets, EGU24 – Session OS4.7: Monitoring, Modeling and Risk Mapping of Marine Pollution and its Environmental and Socioeconomic Footprints, DOI: 10.5194/egusphere-egu24-9808, 2024.
 2. G. Gronchi, N. Pinardi, G. Coppini, S. Liubartseva, and A. Neves , Preliminary model results for subsurface oil release, EGU22 - Session OS4.4: Monitoring, Modeling and Risk Mapping of Marine pollution and its ecological and biogeochemical impacts, DOI: 10.5194/egusphere-egu22-7607, 2022.

@@ -32,7 +32,7 @@ Developed a two-stage model for **tracking deep oil spills** in the ocean, as fr
 
 Developed a new model for a **microscale thermal machine** based upon active particle statistical physics. The model is a complex stochastic process with colored noise that reproduces the persistence of motion of self-propelled particles, such as microswimmer (bacteria etc.) or other active particles. To extract work in a model of this kind we proposed to modulate in time the parameters of the bath, as it happens in a kind of Stirling engine (a variation of the famous Carnot one). Analytical insights were simulated in **C**.
 <p align="center">
-  <img src="/assets/img/thermal_machine.png" alt="Images">
+  <img src="/assets/img/thermal_engine.png" alt="Images">
 </p>
 
 ### GenDip dataset 

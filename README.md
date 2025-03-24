@@ -1,6 +1,5 @@
 # Physicist --> Data Scientist
-Result-oriented Data Scientist with a PhD in Ocean Physics and an MSc in Statistical Physics. Expertise in Earth Physical models and Environmental Data Science at Fondazione Centro Euro-Mediterraneo per i Cambiamenti Climatici. Skilled in Data Viz (Seaborn, SQL, PowerBI).
-Seeking to contribute as a Quality/Environmental Data Analyst, Data Scientist, Functional/Business Analyst.
+Result-oriented Data Scientist with a PhD in Ocean Physics and an MSc in Statistical Physics. Expertise in Earth Physical models and Environmental Data Science at Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici. Skilled in Data Viz (Seaborn, SQL, PowerBI).
 
 ### Education
 - Ph.D., Ocean Physics | University of Bologna (_July 2024_)
@@ -9,9 +8,10 @@ Seeking to contribute as a Quality/Environmental Data Analyst, Data Scientist, F
 
 ### Work Experience
 **PostDoc Data Scientist, CMCC Foundation (_February 2024 - January 2025_)**
-- Analyzed ocean pollution data, developing risk KPIs, automating data processing and enabling timely stakeholder reporting. Applyed regression analysis techniques to detect and identify over 100 distinct pollutants.
-- Executed pollution tracking model validation, managed deviations and data integrity, implementing corrective actions and producing datasheets.
-- Conducted extensive numerical simulations, optimizing key parameters to fit on-site data.
+- Analyzed 1+Tb ocean data, developing risk KPIs, automating data processing and enabling timely stakeholder reporting.
+- Applied ML techniques to detect and identify over 90 distinct oil pollutants.
+- Validated pollution tracking model, managed deviations and data integrity, implemented corrective actions, produced datasheets.
+- Conducted extensive 3D simulations (10000+) of ocean tracers, optimizing key physical and numerical parameters to fit on-site sensors and satellite data from Copernicus Marine Service.
 
 
 **PhD, CMCC Foundation (_November 2020 - January 2024_)**

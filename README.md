@@ -33,9 +33,7 @@ Developed a two-stage model for **tracking deep oil spills** in the ocean, as fr
 
 ![Images](/assets/img/deep.png)
 
-[G. Gronchi, N. Pinardi, G. Coppini, and G. Mannarini , A subsurface oil spill study: integral plume model and lagrangian oil droplets, EGU24 – Session OS4.7: Monitoring, Modeling and Risk Mapping of Marine Pollution and its Environmental and Socioeconomic Footprints, DOI: 10.5194/egusphere-egu24-9808, 2024.](https://meetingorganizer.copernicus.org/EGU24/EGU24-9808.html)
-
-[G. Gronchi, N. Pinardi, G. Coppini, S. Liubartseva, and A. Neves , Preliminary model results for subsurface oil release, EGU22 - Session OS4.4: Monitoring, Modeling and Risk Mapping of Marine pollution and its ecological and biogeochemical impacts, DOI: 10.5194/egusphere-egu22-7607, 2022.](https://meetingorganizer.copernicus.org/EGU22/EGU22-7607.html)
+See [EGU24](https://meetingorganizer.copernicus.org/EGU24/EGU24-9808.html) and [EGU22](https://meetingorganizer.copernicus.org/EGU22/EGU22-7607.html)
 
 
 

@@ -1,13 +1,17 @@
 # Physicist --> Data Scientist
 Result-oriented Data Scientist with a PhD in Ocean Physics and an MSc in Statistical Physics. Expert in Earth Physical models and Environmental Data Science at Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici. Skilled in Data Viz (Seaborn, SQL, PowerBI).
 
+
+
 ## Education
 - Ph.D., Ocean Physics | University of Bologna (_July 2024_)
 - M.S., Physics | Sapienza University of Rome (_May 2020_)
 - B.S., Physics | Sapienza University of Rome (_March 2017_)
 
+  
+
 ## Work Experience
-**PostDoc Data Scientist, CMCC Foundation (_February 2024 - January 2025_)**
+**PostDoc Data Scientist, CMCC Foundation (_February 2024 - February 2025_)**
 - Analyzed 1+Tb ocean data, developing risk KPIs, automating data processing and enabling timely stakeholder reporting.
 - Applied ML techniques to detect and identify over 90 distinct oil pollutants.
 - Validated pollution tracking model, managed deviations and data integrity, implemented corrective actions, produced datasheets.
@@ -18,6 +22,9 @@ Result-oriented Data Scientist with a PhD in Ocean Physics and an MSc in Statist
 - Trained a software engineering team for new ocean pollution tracking model development.
 - Engineered Python-based data pipelines for ocean pollution analysis, automating data extraction, aggregation, preprocessing, and model output processing. 
 - Effectively communicated complex technical findings to diverse audiences, from academic experts to external stakeholders.
+
+
+  
 
 ## Projects
 ### Ocean pollution tracking

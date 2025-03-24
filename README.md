@@ -1,12 +1,12 @@
 # Physicist --> Data Scientist
-Result-oriented Data Scientist with a PhD in Ocean Physics and an MSc in Statistical Physics. Expertise in Earth Physical models and Environmental Data Science at Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici. Skilled in Data Viz (Seaborn, SQL, PowerBI).
+Result-oriented Data Scientist with a PhD in Ocean Physics and an MSc in Statistical Physics. Expert in Earth Physical models and Environmental Data Science at Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici. Skilled in Data Viz (Seaborn, SQL, PowerBI).
 
-### Education
+## Education
 - Ph.D., Ocean Physics | University of Bologna (_July 2024_)
 - M.S., Physics | Sapienza University of Rome (_May 2020_)
 - B.S., Physics | Sapienza University of Rome (_March 2017_)
 
-### Work Experience
+## Work Experience
 **PostDoc Data Scientist, CMCC Foundation (_February 2024 - January 2025_)**
 - Analyzed 1+Tb ocean data, developing risk KPIs, automating data processing and enabling timely stakeholder reporting.
 - Applied ML techniques to detect and identify over 90 distinct oil pollutants.
@@ -27,13 +27,21 @@ Developed a two-stage model for **tracking deep oil spills** in the ocean, as fr
 
 ![Images](/assets/img/deep.png)
 
+[G. Gronchi, N. Pinardi, G. Coppini, and G. Mannarini , A subsurface oil spill study: integral plume model and lagrangian oil droplets, EGU24 – Session OS4.7: Monitoring, Modeling and Risk Mapping of Marine Pollution and its Environmental and Socioeconomic Footprints, DOI: 10.5194/egusphere-egu24-9808, 2024.](https://meetingorganizer.copernicus.org/EGU24/EGU24-9808.html)
+
+[G. Gronchi, N. Pinardi, G. Coppini, S. Liubartseva, and A. Neves , Preliminary model results for subsurface oil release, EGU22 - Session OS4.4: Monitoring, Modeling and Risk Mapping of Marine pollution and its ecological and biogeochemical impacts, DOI: 10.5194/egusphere-egu22-7607, 2022.](https://meetingorganizer.copernicus.org/EGU22/EGU22-7607.html)
+
+
 
 ### Active Bacteria 
 [Publication](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.052134)
 
-Developed a new model for a **microscale thermal machine** based upon active particle statistical physics. The model is a complex stochastic process with colored noise that reproduces the persistence of motion of self-propelled particles, such as microswimmer (bacteria etc.) or other active particles. To extract work in a model of this kind we proposed to modulate in time the parameters of the bath, as it happens in a kind of Stirling engine. Physical processes were simulated in **C**.
+Developed a new model for a **microscale thermal machine** based upon active particle statistical physics. The model is a complex stochastic process with colored noise that reproduces the persistence of motion of self-propelled particles, such as microswimmer (bacteria etc.) or other active particles. To extract work in a model of this kind we proposed to modulate in time the parameters of the bath, as it happens in a kind of Stirling engine. Physical processes were simulated in **C**. 
 
 ![Images](/assets/img/thermal_engine.png)
+
+See [G. Gronchi and A. Puglisi, Optimization of an active heat engine, Physical Review E, DOI:https://doi.org/10.1103/PhysRevE.103.052134, 2021](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.052134)
+
 
 ### GenDip dataset 
 [GenDip dataset](https://www.gu.se/en/gendip/the-gendip-dataset-on-gender-and-diplomatic-representation)
@@ -51,8 +59,4 @@ Laser Transmission Spectroscopy (LTS) is a cutting-edge technique for characteri
 
 ![Images](/assets/img/laser.png)
 
-### Publications
-1. G. Gronchi, N. Pinardi, G. Coppini, and G. Mannarini , A subsurface oil spill study: integral plume model and lagrangian oil droplets, EGU24 – Session OS4.7: Monitoring, Modeling and Risk Mapping of Marine Pollution and its Environmental and Socioeconomic Footprints, DOI: 10.5194/egusphere-egu24-9808, 2024.
-2. G. Gronchi, N. Pinardi, G. Coppini, S. Liubartseva, and A. Neves , Preliminary model results for subsurface oil release, EGU22 - Session OS4.4: Monitoring, Modeling and Risk Mapping of Marine pollution and its ecological and biogeochemical impacts, DOI: 10.5194/egusphere-egu22-7607, 2022.
-3. G. Gronchi and A. Puglisi, Optimization of an active heat engine, Physical Review E, DOI:https://doi.org/10.1103/PhysRevE.103.052134, 2021.
 

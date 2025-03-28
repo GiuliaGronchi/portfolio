@@ -1,4 +1,4 @@
-# Physicist --> Data Scientist
+# Giulia Gronchi
 Result-oriented Data Scientist with a PhD in Ocean Physics and an MSc in Statistical Physics. Expert in Earth Physical models and Environmental Data Science at Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici. Skilled in Data Viz (Seaborn, SQL, PowerBI).
 
 

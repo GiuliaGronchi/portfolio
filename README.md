@@ -5,9 +5,9 @@ I applied the theoretical models of Active matter and Stochastic physics to Clim
 
 
 # Education
-- Ph.D., Future Earth & Climate Change | University of Bologna (_January 2024_)
+- Ph.D., Future Earth & Climate Change | University of Bologna (_Jan 2024_)
 - M.S., Physics | Sapienza University of Rome (_May 2020_)
-- B.S., Physics | Sapienza University of Rome (_March 2017_)
+- B.S., Physics | Sapienza University of Rome (_Mar 2017_)
 
   
 
@@ -29,19 +29,19 @@ I applied the theoretical models of Active matter and Stochastic physics to Clim
   
 
 # Projects
-## Lagrangian Particle Tracking applied to ocean pollution
+## Lagrangian Modeling of Marine oil Transport
 
-Developed a two-stage **Python** model for **tracking deep oil spills** in the ocean, as from accidental pipelines ruptures and sinking tanks. Key physical processes, such as oil-water entrainment and reaching of a deep neutral buoyancy level, are fully represented -> [near-field](https://github.com/GiuliaGronchi/NearParcels) model. Oil parcels are advected and diffused by ocean currents and driven by size-dependent buoyancy -> [far-field](https://github.com/GiuliaGronchi/FarParcels) model, powered with **OceanParcels**. Key model parameters are optimized to represent historical oil spill cases.
+Developed a novel two-stage **Python** model for **tracking deep oil spills**, as from accidental pipelines ruptures and sinking tanks, with Lagrangian techniques. Key physical processes, such as oil-water entrainment and reaching of a deep neutral buoyancy level, are fully represented -> [near-field](https://github.com/GiuliaGronchi/NearParcels) model. Oil parcels are advected and diffused by ocean currents and driven by size-dependent buoyancy -> [far-field](https://github.com/GiuliaGronchi/FarParcels) model, powered with **OceanParcels**.
 
 ![Images](/assets/img/deep.png)
 
-See [EGU24](https://meetingorganizer.copernicus.org/EGU24/EGU24-9808.html) and [EGU22](https://meetingorganizer.copernicus.org/EGU22/EGU22-7607.html)
+Conference participation [EGU24](https://meetingorganizer.copernicus.org/EGU24/EGU24-9808.html) and [EGU22](https://meetingorganizer.copernicus.org/EGU22/EGU22-7607.html)
 
 
 
-## Micro-scale heat engine with Bacteria 
+## Micro-scale Heat engine with Bacteria 
 
-Developed a new model for a **microscale thermal machine** based upon active particle statistical physics. The model is a complex stochastic process with colored noise that reproduces the persistence of motion of self-propelled particles, such as microswimmer (bacteria etc.) or other active particles. To extract work in a model of this kind we proposed to modulate in time the parameters of the bath, as it happens in a kind of Stirling engine. Physical processes were simulated in **C**. 
+Developed a new theoretical model for a **micro-scale thermal machine** based upon Active particle Statistical physics. The model is a complex Stochastic process with colored noise that reproduces the persistence of motion of self-propelled particles, such as microswimmer (bacteria etc.) or other active particles. To extract work, we propose to modulate in time the parameters of the bath, as it happens in a kind of Stirling engine. Physical processes are then simulated in **C**. 
 
 ![Images](/assets/img/thermal_engine.png)
 

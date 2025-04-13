@@ -16,7 +16,7 @@ I applied theoretical knowledge on Active matter and Stochastic physics to Clima
 # Work Experience 
 ## Euro-Mediterranean Center on Climate Change (CMCC)
 **PostDoc | Data Engineer  (_February 2024 - January 2025_)**
-- Built an ETL process, extracting and transforming research data from various intergovernmental organization sources including Copernicus, ECMWF, and UN databases and drawing statistical insights (metrics). 
+- Built an ETL process, extracting and transforming research data from various intergovernmental organization sources including Copernicus, ECMWF, and UN databases and drawing statistical insights. 
 - Built interactive data visualisations using Flourish, Observable Plot, D3.js and other tools for CMCC’s policy analysis on topics including environment health, gender equality, and climate change. 
 - Maintained various Python repositories used for pollution modeling, environmental monitoring, data extraction and processing.
 - Coached team members and led organisation’s ocean models bootcamps and informational sessions on data topics, such as quality and integrity.

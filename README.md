@@ -7,7 +7,7 @@ Applied Active matter and Stochastic physics to Climate and Earth models, skille
 
 # Education
 - PhD, Future Earth & Climate Change | University of Bologna (_Jan 2024_)
-- MS, Physics | Sapienza University of Rome (_May 2020_)
+- MS, Theoretical Physics | Sapienza University of Rome (_May 2020_)
 - BS, Physics | Sapienza University of Rome (_Mar 2017_)
 
   

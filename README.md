@@ -33,9 +33,7 @@ In applying Active matter and Stochastic physics to Climate and Earth modeling, 
 # Projects
 ## Lagrangian Modeling of Marine Oil spills
 
-Developed a novel two-stage **Python** model for **deep-ocean oil spills tracking**, as from accidental pipelines ruptures and sinking tanks, with a plume / Lagrangian approach. Key physical processes, such as oil-water entrainment and deep intrusive levels, are fully represented in a first-stage [Near-field](https://github.com/GiuliaGronchi/NearParcels) model. 
-
-In a second-stage [Far-field](https://github.com/GiuliaGronchi/FarParcels) model (powered with OceanParcels) oil parcels are advected-diffused by 3D ocean currents and size-dependent buoyancy.
+Developed a novel two-stage **Python** model for **deep-ocean oil spills tracking**, as from accidental pipelines ruptures and sinking tanks, with a plume / Lagrangian approach. Key physical processes, such as oil-water entrainment and deep intrusive levels, are fully represented in a first-stage [Near-field](https://github.com/GiuliaGronchi/NearParcels) model. In a second-stage [Far-field](https://github.com/GiuliaGronchi/FarParcels) model (powered with OceanParcels) oil parcels are advected-diffused by 3D ocean currents and size-dependent buoyancy.
 
 Conference participation [EGU24](https://meetingorganizer.copernicus.org/EGU24/EGU24-9808.html) and [EGU22](https://meetingorganizer.copernicus.org/EGU22/EGU22-7607.html)
 

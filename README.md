@@ -1,4 +1,4 @@
-# PhD Future Earth&Climate Change | MS Theoretical Physics
+# PhD Future Earth & Climate Change | MS Theoretical Physics
 
 BS and MS in Physics at Sapienza University of Rome and PhD in Future Earth&Climate Change at Bologna University and Euro-Mediterranean Center on Climate Change (CMCC), visiting scholar at IHCantabria, then CMCC researcher on engineering environmental data solutions.
 In applying Active matter and Stochastic physics to Climate and Earth modeling, I strengthened skills in scientific programming (Python,C) data management (Python -pandas, numpy, xarray; Excel, SQL, MongoDB) and visualization (Flourish, PowerBI, R, D3.js, Tableau, matplotlib -seaborn plotly).
@@ -33,9 +33,9 @@ In applying Active matter and Stochastic physics to Climate and Earth modeling, 
 # Projects
 ## Lagrangian Modeling of Marine Oil spills
 
-Developed a novel two-stage **Python** model for **deep-ocean oil spills tracking**, as from accidental pipelines ruptures and sinking tanks, with a plume / Lagrangian approach. Key physical processes, such as oil-water entrainment and deep intrusive levels, are fully represented in a first-stage -> [Near-field](https://github.com/GiuliaGronchi/NearParcels) model. 
+Developed a novel two-stage **Python** model for **deep-ocean oil spills tracking**, as from accidental pipelines ruptures and sinking tanks, with a plume / Lagrangian approach. Key physical processes, such as oil-water entrainment and deep intrusive levels, are fully represented in a first-stage [Near-field](https://github.com/GiuliaGronchi/NearParcels) model. 
 
-In a second-stage -> [Far-field](https://github.com/GiuliaGronchi/FarParcels) model (powered with OceanParcels) oil parcels are advected-diffused by 3D ocean currents and size-dependent buoyancy.
+In a second-stage [Far-field](https://github.com/GiuliaGronchi/FarParcels) model (powered with OceanParcels) oil parcels are advected-diffused by 3D ocean currents and size-dependent buoyancy.
 
 Conference participation [EGU24](https://meetingorganizer.copernicus.org/EGU24/EGU24-9808.html) and [EGU22](https://meetingorganizer.copernicus.org/EGU22/EGU22-7607.html)
 

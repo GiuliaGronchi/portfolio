@@ -1,8 +1,8 @@
 # Physicist and Data Engineer
 ## PhD Future Earth & Climate Change | MSc Theoretical Physics
 
-BSc and MSc in Physics at Sapienza University of Rome and PhD in Future Earth & Climate Change at Bologna University and Euro-Mediterranean Center on Climate Change (CMCC), with visiting project at IHCantabria, then CMCC researcher on Environmental Data engineering.
-I applied theoretical knowledge on Active matter and Stochastic physics to Climate modeling, gained experience in scientific programming and data management. Passionate about communicate science with Data Viz!(Matplotlib, Flourish, D3.js).
+BSc and MSc in Physics at Sapienza University of Rome and PhD in Future Earth & Climate Change at Bologna University and Euro-Mediterranean Center on Climate Change (CMCC), with visiting project at IHCantabria, then CMCC research collaborator and Data engineer.
+I applied theoretical models of Active matter and Stochastic physics to Climate modeling and gained experience in scientific programming (Python,C) data management (Python -pandas, numpy, xarray; Excel, SQL, MongoDB) and visualization (Flourish, PowerBI, R, D3.js, Tableau, matplotlib -seaborn plotly).
 
 
 
@@ -16,16 +16,17 @@ I applied theoretical knowledge on Active matter and Stochastic physics to Clima
 # Work Experience 
 ## Euro-Mediterranean Center on Climate Change (CMCC)
 **PostDoc | Data Engineer  (_February 2024 - January 2025_)**
-- Built an ETL process, extracting and transforming research data from various intergovernmental organization sources including Copernicus, ECMWF, and UN databases and drawing statistical insights. 
-- Built interactive data visualisations using Flourish, Observable Plot, D3.js and other tools for CMCC’s policy analysis on topics including environment health, gender equality, and climate change. 
-- Maintained various Python repositories used for pollution modeling, environmental monitoring, data extraction and processing.
-- Coached team members and led organisation’s ocean models bootcamps and informational sessions on data topics, such as quality and integrity.
+- Developed Python pipelines to extract, explore and manipulate/process research and operational API data from intergovernmental and EU organizations, including Copernicus C3S, ECMWF, WDS, NASA, and NOAA. Analyzed and integrated CMCC models output data and loaded it into the organization’s DSS database.
+- Collaborated with CMCC developers to build and test a novel real-time Lagrangian ocean pollution tracking model, maintaining related Python repositories on GitHub.
+- Created interactive data visualizations using Flourish, Observable Plot, D3.js, and reported insights through Power BI for CMCC’s policy analyses on topics including environmental health monitoring, gender equality, and climate change (defined climate impact indices for assessing urban risks in European cities).
+- Coached team members and led the organization’s ocean modeling bootcamps and informational sessions on data-related topics such as quality, standards and integrity.
 
 
 **PhD (_November 2020 - January 2024_)**
-- Trained a software engineering team for new ocean pollution tracking model development.
-- Engineered Python-based data pipelines for ocean pollution analysis, automating data extraction, aggregation, preprocessing, and model output processing. 
-- Effectively communicated complex technical findings to diverse audiences, from academic experts to external stakeholders.
+- Managed stakeholder and functional requirements to design a novel ocean risk model SDLC, contributing to the MonGOOS ocean monitoring proposal  and OKEANOS monitoring framework.
+- Analyzed 1Tb+ of climate, weather and ocean data, extracting meaningful statistical insights.
+- Organised content for technical coaching and non-technical communication during CMCC’s ocean modeling and data quality bootcamps, adapting to schedules and priorities.
+- Balanced independent initiative and teamwork in international contexts as Visiting Scholar at IHCantabria; led research presentations and contributed as first author to papers and conferences,
 
 
   
@@ -33,7 +34,9 @@ I applied theoretical knowledge on Active matter and Stochastic physics to Clima
 # Projects
 ## Lagrangian Modeling of Marine oil Transport
 
-Developed a novel two-stage **Python** model for **tracking deep oil spills**, as from accidental pipelines ruptures and sinking tanks, with Lagrangian techniques. Key physical processes, such as oil-water entrainment and reaching of a deep neutral buoyancy level, are fully represented -> [near-field](https://github.com/GiuliaGronchi/NearParcels) model. Oil parcels are advected and diffused by ocean currents and driven by size-dependent buoyancy -> [far-field](https://github.com/GiuliaGronchi/FarParcels) model, powered with **OceanParcels**.
+Developed a novel two-stage **Python** model for **tracking deep oil spills**, as from accidental pipelines ruptures and sinking tanks, with Lagrangian techniques. Key physical processes, such as oil-water entrainment and reaching of a deep neutral buoyancy level, are fully represented -> [Near-field](https://github.com/GiuliaGronchi/NearParcels) model. 
+
+Oil parcels are advected and diffused by ocean currents and driven by size-dependent buoyancy -> [Far-field](https://github.com/GiuliaGronchi/FarParcels) model, powered with **OceanParcels**.
 
 ![Images](/assets/img/deep.png)
 
@@ -45,9 +48,10 @@ Conference participation [EGU24](https://meetingorganizer.copernicus.org/EGU24/E
 
 Developed a new theoretical model for a **micro-scale thermal machine** based upon Active particle Statistical physics. The model is a complex Stochastic process with colored noise that reproduces the persistence of motion of self-propelled particles, such as microswimmer (bacteria etc.) or other active particles. To extract work, we propose to modulate in time the parameters of the bath, as it happens in a kind of Stirling engine. Physical processes are then simulated in **C**. 
 
+See [G. Gronchi and A. Puglisi, Optimization of an active heat engine, Physical Review E, DOI:https://doi.org/10.1103/PhysRevE.103.052134, 2021](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.052134)
+
 ![Images](/assets/img/thermal_engine.png)
 
-See [G. Gronchi and A. Puglisi, Optimization of an active heat engine, Physical Review E, DOI:https://doi.org/10.1103/PhysRevE.103.052134, 2021](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.052134)
 
 
 ## Dataset querying: GenDip dataset 
@@ -62,7 +66,7 @@ patterns in time and space of gender gaps in diplomacy.
 ## Characterization of biological nanoparticles with LTS
 [Laser Transmission Spectroscopy](https://ieeexplore.ieee.org/document/9359477)
 
-Laser Transmission Spectroscopy (LTS) is a cutting-edge technique for characterization of **biological nanoparticles**. It is often used to measure dimensions and absolute concentration of exosomes, bacteria, and cells in vivo suspensions and is a promising new method for diagnostics. During [this project](https://github.com/GiuliaGronchi/LTS) at Sapienza University, we designed a new experimental setup with a tunable wavelength laser and developed a **Python** software tool for analyzing the transmitted data.
+Laser Transmission Spectroscopy (LTS) is a cutting-edge technique for characterization of **biological nanoparticles**. It is often used to measure dimensions and absolute concentration of exosomes, bacteria, and cells in vivo suspensions and is a promising new method for diagnostics. With this 6-months project at Sapienza University, we designed a new experimental setup with a tunable wavelength laser and developed a **Python** software tool for analyzing the transmitted data.
 
 ![Images](/assets/img/laser.png)
 

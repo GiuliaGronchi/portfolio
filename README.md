@@ -1,4 +1,4 @@
-# PhD Future Earth & Climate Change | MS Theoretical Physics
+### PhD Future Earth & Climate Change | MS Theoretical Physics
 
 BS and MS in Physics at Sapienza University of Rome and PhD in Future Earth&Climate Change at Bologna University and Euro-Mediterranean Center on Climate Change (CMCC), visiting scholar at IHCantabria, then CMCC researcher on Environmental data engineering.
 Applied Active matter and Stochastic physics to Climate and Earth models, skilled in scientific programming (Python,C, R) data management (Python -pandas, numpy, xarray-, Excel, SQL, MongoDB) and data visualization (Flourish, PowerBI, R, D3.js, Tableau, matplotlib -seaborn-, plotly).

@@ -15,14 +15,14 @@ Applied Active matter and Stochastic physics to Climate and Earth models, skille
 
 # Work Experience 
 ## Euro-Mediterranean Center on Climate Change (CMCC)
-**PostDoc | Data Engineer  (_February 2024 - January 2025_)**
+**PostDoc | Data Engineer**  (_Feb 2024 - Jan 2025_)
 - Developed Python pipelines to extract, explore and manipulate research and operational API data from Copernicus C3S, ECMWF, WDS, NASA, and NOAA. Analyzed and integrated CMCC models data into the organization’s DSS database.
 - Collaborated with CMCC developers to maintain Python GitHub repository on a novel real-time Lagrangian ocean pollution tracking model.
 - Created interactive data visualizations with Flourish, matplotlib, plotly, D3.js. Power BI reporting for CMCC’s policy analyses on topics including environmental health monitoring, gender equality. Defined climate impact indices for assessing urban risks in European cities.
 - Coached team members and led the organization’s ocean modeling bootcamps on scientific computing and data-related topics as quality, standards and integrity.
 
 
-**PhD (_November 2020 - January 2024_)**
+**PhD** (_Nov 2020 - Jan 2024_)
 - Managed stakeholder and functional requirements for a novel ocean risk model (end-to end SDLC), contributing to the MonGOOS ocean monitoring proposal and OKEANOS monitoring framework.
 - Analyzed 1Tb+ of climate, weather and ocean data, extracting meaningful statistical insights and impact metrics.
 - Organised content for technical and non-technical during CMCC’s ocean modeling and data quality webinars. Led research presentations and contributed as first author to papers and conferences.

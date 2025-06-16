@@ -13,7 +13,7 @@ Applied Active matter and Stochastic physics to Climate and Earth models, skille
   
 
 ## Work Experience 
-** Euro-Mediterranean Center on Climate Change (CMCC) **
+**Euro-Mediterranean Center on Climate Change (CMCC)**
 **PostDoc | Data Engineer**  (_Feb 2024 - Jan 2025_)
 - Developed Python pipelines to extract, explore and manipulate research and operational API data from Copernicus C3S, ECMWF, WDS, NASA, and NOAA. Analyzed and integrated CMCC models data into the organization’s DSS database.
 - Collaborated with CMCC developers to maintain Python GitHub repository on a novel real-time Lagrangian ocean pollution tracking model.
@@ -31,7 +31,7 @@ Applied Active matter and Stochastic physics to Climate and Earth models, skille
   
 
 ## Projects
-** Lagrangian Modeling of Marine Oil spills**
+**Lagrangian Modeling of Marine Oil spills**
 
 Developed a novel two-stage **Python** model for **deep-ocean oil spills tracking**, as from accidental pipelines ruptures and sinking tanks, with a plume / Lagrangian approach. Key physical processes, such as oil-water entrainment and deep intrusive levels, are fully represented in a first-stage [Near-field](https://github.com/GiuliaGronchi/NearParcels) model. In a second-stage [Far-field](https://github.com/GiuliaGronchi/FarParcels) model (powered with OceanParcels) oil parcels are advected-diffused by 3D ocean currents and size-dependent buoyancy.
 
@@ -41,7 +41,7 @@ Conference participation [EGU24](https://meetingorganizer.copernicus.org/EGU24/E
 
 
 
-** Micro-scale Heat engine with non-interacting Bacteria **
+**Micro-scale Heat engine with non-interacting Bacteria**
 
 Developed a new theoretical model for a **micro-scale thermal machine** based upon Active particle Statistical physics. The model is a complex Stochastic process with colored noise that reproduces the persistence of motion of self-propelled particles, such as microswimmer (bacteria etc.) or other active particles. To extract work, we propose to modulate in time the parameters of the bath, as it happens in a kind of Stirling engine. Physical processes are then simulated in **C**. 
 
@@ -51,7 +51,7 @@ See [G. Gronchi and A. Puglisi, Optimization of an active heat engine, Physical 
 
 
 
-** Dataset querying: GenDip dataset **
+**Dataset querying: GenDip dataset**
 [GenDip dataset](https://www.gu.se/en/gendip/the-gendip-dataset-on-gender-and-diplomatic-representation)
 
 Used **SQL** querying to get insights from the GenDip Dataset on Gender and Diplomatic Representation from University of Gothenburg.
@@ -60,7 +60,7 @@ patterns in time and space of gender gaps in diplomacy.
 
 ![Images](/assets/img/gender_gap.png)
 
-** High-Resolution Characterization of Bio-nanoparticles using Laser Transmission Spectroscopy**
+**High-Resolution Characterization of Bio-nanoparticles using Laser Transmission Spectroscopy**
 
 
 [Laser Transmission Spectroscopy](https://ieeexplore.ieee.org/document/9359477) is a cutting-edge technique for characterization of **biological nanoparticles**. It is often used to measure dimensions and absolute concentration of exosomes, bacteria, and cells in vivo suspensions and is a promising new method for diagnostics. With this 6-months project at Sapienza University, we designed a new experimental setup with a tunable wavelength laser and developed a **Python** software tool for analyzing the transmitted data.

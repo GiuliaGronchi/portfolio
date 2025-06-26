@@ -1,70 +1,104 @@
 # Giulia Gronchi
 
-**PhD Future Earth & Climate Change | MS Theoretical Physics**
-BS and MS in Physics at Sapienza University of Rome and PhD in Future Earth&Climate Change at Bologna University and Euro-Mediterranean Center on Climate Change (CMCC), visiting scholar at IHCantabria, then CMCC researcher on Environmental data engineering.
-Applied Active matter and Stochastic physics to Climate and Earth models, skilled in scientific programming (Python,C, R) data management (Python -pandas, numpy, xarray-, Excel, SQL, MongoDB) and data visualization (Flourish, PowerBI, R, D3.js, Tableau, matplotlib -seaborn-, plotly).
+**Physicist • Ocean Modeler • Environmental Risk Analyst**
 
+PhD in Future Earth, Climate Change & Societal Challenges (University of Bologna); MS in Theoretical Physics (Sapienza Rome); CMCC researcher in environmental data engineering.  
+Specialized in active matter and stochastic physics applied to climate systems, ocean pollution modeling, and environmental risk assessment.  
+Proficient in scientific computing (Python, C, R), data engineering (SQL, dbt, Prefect), and visualization (matplotlib, plotly, Flourish, Power BI).
+
+---
 
 ## Education
-- PhD, Future Earth & Climate Change | University of Bologna (_Jan 2024_)
-- MS, Theoretical Physics | Sapienza University of Rome (_May 2020_)
-- BS, Physics | Sapienza University of Rome (_Mar 2017_)
 
-  
+- **PhD**, Future Earth & Climate Change — University of Bologna (_Jan 2024_)  
+- **MSc**, Theoretical Physics — Sapienza University of Rome (_May 2020_)  
+- **BSc**, Physics — Sapienza University of Rome (_Mar 2017_)  
 
-## Work Experience 
-**Euro-Mediterranean Center on Climate Change (CMCC)**
-**PostDoc Researcher**  (_Feb 2024 - Jan 2025_)
-- Developed Python pipelines to extract, explore and manipulate research and operational API data from Copernicus C3S, ECMWF, WDS, NASA, and NOAA. Analyzed and integrated CMCC models data into the organization’s DSS database.
-- Collaborated with CMCC developers to maintain Python GitHub repository on a novel real-time Lagrangian ocean pollution tracking model.
-- Created interactive data visualizations with Flourish, matplotlib, plotly, D3.js. Power BI reporting for CMCC’s policy analyses on topics including environmental health monitoring, gender equality. Defined climate impact indices for assessing urban risks in European cities.
-- Coached team members and led the organization’s ocean modeling bootcamps on scientific computing and data-related topics as quality, standards and integrity.
+---
 
+## Professional Experience
 
-**Euro-Mediterranean Center on Climate Change (CMCC)** **PhD Researcher** (_Nov 2020 - Jan 2024_)
-- Managed stakeholder and functional requirements for a novel ocean risk model (end-to end SDLC), contributing to the MonGOOS ocean monitoring proposal and OKEANOS monitoring framework.
-- Analyzed 1Tb+ of climate, weather and ocean data, extracting meaningful statistical insights and impact metrics.
-- Organised content for technical and non-technical during CMCC’s ocean modeling and data quality webinars. Led research presentations and contributed as first author to papers and conferences.
-- Balanced independent initiative and teamwork in international contexts including as Visiting Scholar at IHCantabria. 
+### Euro‑Mediterranean Center on Climate Change (CMCC)
 
+#### Data Scientist – Climate Risk & Environmental Assessment  
+_Feb 2024 – Feb 2025_  
+- Engineered Python pipelines to ingest and harmonize data from Copernicus C3S, ECMWF, NASA, and NOAA into CMCC's DSS.  
+- Co‑maintained CMS on GitHub for real‑time Lagrangian oil pollution modeling.  
+- Delivered analytical products and reports via Flourish, matplotlib, plotly, D3.js, and Power BI for policy stakeholders.  
+- Led internal training sessions in ocean modeling, scientific computing, and data quality standards.
 
-  
+#### Environmental Data Engineer & PhD Researcher  
+_Nov 2020 – Jan 2024_  
+- Defined requirements and architected an end-to-end ocean risk model; contributed to MonGOOS and OKEANOS frameworks.  
+- Processed and analyzed >1 TB of climate and ocean data, producing impact metrics and scientific insights.  
+- Presented webinars and led sessions at international conferences; served as Visiting Scholar at IHCantabria.  
+- Balanced independent research with collaborative roles across cross-functional teams.
 
-## Projects
-**Lagrangian Modeling of Marine Oil spills**
+---
 
-Developed a novel two-stage **Python** model for **deep-ocean oil spills tracking**, as from accidental pipelines ruptures and sinking tanks, with a plume / Lagrangian approach. Key physical processes, such as oil-water entrainment and deep intrusive levels, are fully represented in a first-stage [Near-field](https://github.com/GiuliaGronchi/NearParcels) model. In a second-stage [Far-field](https://github.com/GiuliaGronchi/FarParcels) model (powered with OceanParcels) oil parcels are advected-diffused by 3D ocean currents and size-dependent buoyancy.
+## Key Projects
 
-Conference participation [EGU24](https://meetingorganizer.copernicus.org/EGU24/EGU24-9808.html) and [EGU22](https://meetingorganizer.copernicus.org/EGU22/EGU22-7607.html)
+---
 
-![Images](/assets/img/deep.png)
+<img src="/assets/img/deep.png" alt="Ocean Pollution Forecasting" width="220" align="left" style="margin-right:15px;"/>
 
+### Ocean Pollution Forecasting & Coastal Risk Assessment
 
+- Implemented a two-stage **Python** framework for **deep-ocean oil spill tracking**, incorporating plume entrainment and intrusive dynamics.  
+  - **Near-field** model ([GitHub](https://github.com/GiuliaGronchi/NearParcels)): captures initial plume behavior  
+  - **Far-field** model ([GitHub](https://github.com/GiuliaGronchi/FarParcels)): simulates long-range oil parcel transport with OceanParcels  
+- Presented findings at [EGU 2022](https://meetingorganizer.copernicus.org/EGU22/EGU22-7607.html) and [EGU 2024](https://meetingorganizer.copernicus.org/EGU24/EGU24-9808.html).
 
-**Micro-scale Heat engine with non-interacting Bacteria**
+<br clear="all" /><br>
 
-Developed a new theoretical model for a **micro-scale thermal machine** based upon Active particle Statistical physics. The model is a complex Stochastic process with colored noise that reproduces the persistence of motion of self-propelled particles, such as microswimmer (bacteria etc.) or other active particles. To extract work, we propose to modulate in time the parameters of the bath, as it happens in a kind of Stirling engine. Physical processes are then simulated in **C**. 
+---
 
-See [G. Gronchi and A. Puglisi, Optimization of an active heat engine, Physical Review E, DOI:https://doi.org/10.1103/PhysRevE.103.052134, 2021](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.052134)
+<img src="/assets/img/thermal_engine.png" alt="Micro-scale Heat Engine" width="220" align="left" style="margin-right:15px;"/>
 
-![Images](/assets/img/thermal_engine.png)
+### Micro-scale Heat Engine with Active Particles
 
+- Developed a theoretical **micro-scale thermal engine** based on active matter principles and stochastic thermodynamics.  
+- Modeled colored noise persistence in microswimmers and assessed work extraction via bath parameter modulation—akin to a Stirling cycle.  
+- C-coded physics simulations; published in *Physical Review E* ([2021 paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.052134)).
 
+<br clear="all" /><br>
 
-**Dataset querying: GenDip dataset**
-[GenDip dataset](https://www.gu.se/en/gendip/the-gendip-dataset-on-gender-and-diplomatic-representation)
+---
 
-Used **SQL** querying to get insights from the GenDip Dataset on Gender and Diplomatic Representation from University of Gothenburg.
-The GenDip dataset maps the man and woman presence in different kinds of ambassador postings between the years 1968-2021. This [SQL analysis](https://github.com/GiuliaGronchi/SQL-GenDip) identifies
-patterns in time and space of gender gaps in diplomacy.
+<img src="/assets/img/gender_gap.png" alt="GenDip Dataset" width="220" align="left" style="margin-right:15px;"/>
 
-![Images](/assets/img/gender_gap.png)
+### SQL-Based Analysis of GenDip Dataset
 
-**High-Resolution Characterization of Bio-nanoparticles using Laser Transmission Spectroscopy**
+- Analyzed the [GenDip dataset](https://www.gu.se/en/gendip/the-gendip-dataset-on-gender-and-diplomatic-representation), covering ambassadorial gender representation (1968–2021).  
+- Employed **PostgreSQL** queries to extract spatial and temporal gender-gap trends.  
+- Shared results and methodologies via [GitHub SQL analysis](https://github.com/GiuliaGronchi/SQL-GenDip).
 
+<br clear="all" /><br>
 
-[Laser Transmission Spectroscopy](https://ieeexplore.ieee.org/document/9359477) is a cutting-edge technique for characterization of **biological nanoparticles**. It is often used to measure dimensions and absolute concentration of exosomes, bacteria, and cells in vivo suspensions and is a promising new method for diagnostics. With this 6-months project at Sapienza University, we designed a new experimental setup with a tunable wavelength laser and developed a **Python** software tool for analyzing the transmitted data.
+---
 
-![Images](/assets/img/laser.png)
+<img src="/assets/img/laser.png" alt="Laser Transmission Spectroscopy" width="220" align="left" style="margin-right:15px;"/>
 
+### High-Resolution Bio-nanoparticle Characterization
+
+- Deployed [Laser Transmission Spectroscopy](https://ieeexplore.ieee.org/document/9359477) to quantify exosomes, bacteria, and cells in suspension.  
+- Designed a tunable-wavelength laser setup and developed a complementary software suite (**Python, R, LabVIEW**) during a 6‑month project at Sapienza.
+
+<br clear="all" /><br>
+
+---
+
+### Collaborations & Outreach
+
+- Frequent invited speaker at CMCC seminars on environmental analytics and risk assessment.  
+- Mentored early‑career researchers in scientific programming and data best practices.
+
+---
+
+### Let’s Connect
+
+Open to partnerships in ocean modeling, environmental risk, and environmental data science:
+
+- [LinkedIn](https://www.linkedin.com/in/giuliagronchi/)  
+- [GitHub](https://github.com/GiuliaGronchi)
 
